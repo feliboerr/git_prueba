@@ -1,3 +1,4 @@
 cree los archivos pero no son seguidos por git
 ejecute el comando got log pero no paso  nada por qe no hay ningun commit o
 subi los arhivos al remoto
+cree los directorios no se muetsran por que estan vacios 
